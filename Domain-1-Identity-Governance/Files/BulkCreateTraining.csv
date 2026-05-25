@@ -1,0 +1,4 @@
+Name [displayName] Required,User name [userPrincipalName] Required,Initial password [passwordProfile] Required,Account enabled (true/false) [accountEnabled],First name [givenName],Last name [surname],Job title [jobTitle],Department [department],Usage location [usageLocation],Street address [streetAddress],State or province [state],Country or region [country],Office [officeLocation],City [city],ZIP or postal code [postalCode],Business phone [businessPhones],Mobile phone [mobilePhone]
+Ann Jenkins,AnnJenkins@RickyTrainingLtd.onmicrosoft.com,password_1,TRUE,Ann,Jenkins,Marketing Manager,Marketing,GB,,,,,,,,
+Sophie Patrick,SophiePatrick@RickyTrainingLtd.onmicrosoft.com,password_2,TRUE,Sophie,Patrick,Marketing Team Member,Marketing,GB,,,,,,,,
+Heather Jones,HeatherJones@RickyTrainingLtd.onmicrosoft.com,password_3,TRUE,Heather,Jones,Marketing Team Member,Marketing,GB,,,,,,,,
