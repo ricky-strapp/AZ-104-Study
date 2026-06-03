@@ -17,6 +17,6 @@ I am currently studying for the AZ-104: Microsoft Azure Administrator certificat
 |---|---|---|
 | Domain-1-Identity-Governance | Manage Identities and Governance | Complete |  
 | Domain-2-Storage | Implement and Manage Storage | Complete |  
-| Domain-3-Compute | Deploy and Manage Azure Compute Resources | Not Started |  
-| Domain-4-Networking | Configure and Manage Virtual Networking | Not Started |  
+| Domain-3-Compute | Deploy and Manage Azure Compute Resources | Complete |  
+| Domain-4-Networking | Configure and Manage Virtual Networking | In Progress |  
 | Domain-5-Monitor-Backup | Monitor and Maintain Azure Resources | Not Started |
