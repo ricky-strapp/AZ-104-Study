@@ -1,0 +1,3 @@
+# Domain 4 - Notes / Key Takeaways
+
+**Bastion:** I accidentally provisioned my Bastion host into a different virtual network than the one my target VM was located inside of. The two vnets were in different regions, so when I tried to connect to the VM via Bastion the connection failed. I had to do some troubleshooting and eventually decided that instead of tearing it down and redeploying, that I could peer the two vnets together and get the conenction to work that way. It turned out to be a good practice for vnet peering as well as a good lesson in narrowing down the root causes of issues in Azure.
